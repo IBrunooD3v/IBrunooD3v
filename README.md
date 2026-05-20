@@ -46,7 +46,7 @@
 
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/bruninhodev)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/brunocarus/)
-[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ibrunoodev@gmail.com) 
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:bruninhoodev@gmail.com) 
 
 
 <!--Gif Ondas-->
