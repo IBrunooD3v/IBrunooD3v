@@ -6,18 +6,18 @@ Me chamo Bruno Henrique, tenho 23 anos, sou natural de São Paulo e atualmente m
 
 Atualmente, estudo programação por conta própria, com foco em desenvolvimento e tecnologia, e tenho como próximo objetivo ingressar no curso de Análise e Desenvolvimento de Sistemas (ADS) para aprofundar ainda mais meus conhecimentos na área.
 <p align="left">
-    <a href="https://github.com/IBruninhooDev?tab=repositories&sort=stargazers">
+    <a href="https://github.com/DevIBrunoo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/IBruninhooDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/DevIBrunoo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/IBruninhooDev?tab=followers">
+    <a href="https://github.com/DevIBrunoo?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IBruninhooDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/DevIBrunoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -114,7 +114,7 @@ Atualmente, estudo programação por conta própria, com foco em desenvolvimento
 
 <p>
     
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/____brunoo77)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/devibrunoo)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/brunocarus/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:bruninhoodev@gmail.com)
 
