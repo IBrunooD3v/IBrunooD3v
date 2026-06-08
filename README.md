@@ -148,4 +148,6 @@ Como próximo objetivo, pretendo ingressar no curso de Análise e Desenvolviment
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/brunocarus/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:bruninhoodev@gmail.com)
 
+🐱‍👤 Portfolio | [ibruninhoodev.netlify.app](https://ibruninhoodev.netlify.app/)
+
 </p>
