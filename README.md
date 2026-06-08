@@ -1,10 +1,13 @@
 # 👩🏻‍💻 Bruno Henrique
 
-**`Desenvolvedor Front End`**
+**`Desenvolvedor Back End`**
 
-Me chamo Bruno Henrique, tenho 23 anos, sou natural de São Paulo e atualmente moro em Osasco. Sou apaixonado por tecnologia e desenvolvimento de software, buscando constantemente evoluir minhas habilidades através de estudos independentes e projetos práticos.
+Me chamo Bruno Henrique, tenho 23 anos, sou natural de São Paulo e atualmente moro em Osasco. Sou apaixonado por tecnologia e desenvolvimento Back-End, buscando constantemente evoluir minhas habilidades por meio de estudos independentes e projetos práticos.
 
-Atualmente, estudo programação por conta própria, com foco em desenvolvimento e tecnologia, e tenho como próximo objetivo ingressar no curso de Análise e Desenvolvimento de Sistemas (ADS) para aprofundar ainda mais meus conhecimentos na área.
+Atualmente, estudo programação com foco em desenvolvimento Back-End, com interesse no desenvolvimento de APIs, bancos de dados e arquitetura de sistemas, sempre buscando aplicar boas práticas de organização, segurança e performance.
+
+Como próximo objetivo, pretendo ingressar no curso de Análise e Desenvolvimento de Sistemas (ADS) para aprofundar ainda mais meus conhecimentos e fortalecer minha carreira na área de tecnologia.
+
 <p align="left">
     <a href="https://github.com/DevIBrunoo?tab=repositories&sort=stargazers">
         <img 
@@ -46,38 +49,65 @@ Atualmente, estudo programação por conta própria, com foco em desenvolvimento
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="typescript" 
-    title="typescript"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 
 <img 
     align="left" 
-    alt="react" 
-    title="react"
+    alt="PostgreSQL" 
+    title="PostgresSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="tailwindcss" 
-    title="tailwindcss"
+    alt="FastAPI" 
+    title="FastAPI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
 
 <img 
