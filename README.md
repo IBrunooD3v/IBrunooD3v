@@ -62,6 +62,15 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 
 <img 
     align="left" 
+    alt="typescript" 
+    title="typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" 
+/>
+
+<img 
+    align="left" 
     alt="react" 
     title="react"
     width="30px" 
