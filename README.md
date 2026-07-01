@@ -133,6 +133,6 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/brunocarus/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ibrunood3v@gmail.com)
 
-🐱‍👤 Portfolio | [ibrunoodev.netlify.app](https://ibrunoodev.netlify.app/)
+🐱‍👤 Portfolio | [ibrunood3v.netlify.app](https://ibrunood3v.netlify.app/)
 
 </p>
